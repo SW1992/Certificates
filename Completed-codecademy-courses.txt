@@ -8,4 +8,6 @@ jQuery
 
 Make an interactive website
 
+Python
+
 https://www.codecademy.com/SamW92 verifiable here
