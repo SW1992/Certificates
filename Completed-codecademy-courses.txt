@@ -10,4 +10,6 @@ Make an interactive website
 
 Python
 
+Learn SQL
+
 https://www.codecademy.com/SamW92 verifiable here
